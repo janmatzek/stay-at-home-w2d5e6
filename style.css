@@ -1,0 +1,34 @@
+CodePen Home
+W2D5E6
+Jan Zmatek
+
+Pen Editor Menu
+
+
+User AvatarUser Menu
+HTML
+CSS
+JS
+Result
+ 
+CSS Options
+
+h1 {
+  color: #e66a27;
+}
+h2 {
+  color: #7305ad;
+}
+ul {
+  list-style: square outside none;
+}
+ol {
+  color: #f72df7;
+  text-decoration: underline;
+  font-weight: bold;
+  list-style: upper-roman outside none;
+}
+.last {
+  color: black;
+  text-decoration: underline;
+}
